@@ -103,3 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+git clone git@github.com:poyadav/COGS108_Repo.git
