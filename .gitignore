@@ -103,4 +103,3 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-git clone https://github.com/COGS108/Projects.git
